@@ -29,10 +29,10 @@ As the *Back-End Developer*, I was fully responsible for implementing the comple
 
 ## Screenshot
 - Home Page
-![Home Page](images/tampilanAwal.png)
+![Home Page](SPPK-MAUT/images/tampilanAwal.png)
 
 - Upload Criteria and Input Page
-![Input Page](images/inputKriteria&File.png)
+![Input Page](SPPK-MAUT/images/inputKriteria&File.png)
 
 - Evaluating and Ranking Page
-![Results Page](images/hasilPerhitungan.png)
+![Results Page](SPPK-MAUT/images/hasilPerhitungan.png)
